@@ -2,6 +2,10 @@
 
 A modern, responsive currency converter web application built with React. Instantly convert between multiple currencies using real-time exchange rates.
 
+## 🚀 Live Demo
+
+[View the live app here](https://currency-converter-nine-gilt.vercel.app/)
+
 ## Features
 
 - **Live Exchange Rates:** Fetches up-to-date currency rates from a public API.
@@ -19,7 +23,7 @@ A modern, responsive currency converter web application built with React. Instan
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (v14 or higher recommended)
-- [npm](https://www.npmjs.com/) 
+- [npm](https://www.npmjs.com/)
 
 ### Installation
 
@@ -70,5 +74,3 @@ src/
 - JavaScript (ES6+)
 - Tailwind CSS (for styling)
 - [Fawaz Ahmed Currency API](https://github.com/fawazahmed0/currency-api)
-
-
